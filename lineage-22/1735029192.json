@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1737965816,
-      "filename": "lineage-22.1-20250127-UNOFFICIAL-sakura.zip",
-      "id": "2be480da4def0280c9e64ef1bc570dc08fdac1ef777a128ba23bffaa028e3a58",
+      "datetime": 1738138979,
+      "filename": "lineage-22.1-20250129-UNOFFICIAL-sakura.zip",
+      "id": "5c1ebe6c5c8eaef02008bd5b9e9d48d455ad1bd354aca595ea69a79f632cc745",
       "romtype": "unofficial",
-      "size": 946059351,
-      "url": "https://github.com/ItsVixano-releases/LineageOS_sakura/releases/download/20250127/lineage-22.1-20250127-UNOFFICIAL-sakura.zip",
+      "size": 948538595,
+      "url": "https://github.com/ItsVixano-releases/LineageOS_sakura/releases/download/20250129/lineage-22.1-20250129-UNOFFICIAL-sakura.zip",
       "version": "22.1"
     }
   ]
